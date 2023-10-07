@@ -1,7 +1,7 @@
 {
-  "name": "react-crome-extension",
+  "name": "react-crome-extension-boilerplate",
   "version": "1.0.0",
-  "description": "A reactjs crome extension",
+  "description": "A reactjs crome extension boilerplate",
   "private": true,
   "scripts": {
     "start": "webpack --watch --progress --config webpack.dev.js",
